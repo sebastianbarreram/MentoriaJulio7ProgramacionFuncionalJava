@@ -13,7 +13,9 @@ Se genera una clase llamada Calculadora con las siguientes operaciones:
 - Valor de la sumatoria de los elementos de cada lista.
 
 Si las dos listas son iguales, el resultado de las primeras cinco operaciones tendrá el mismo número de elementos de las listas de entrada.
-En el caso de que las listas tengan diferente númerod e elementos, el resultado antes mencionado tendrá el número de elementos de la lista que menos elementos contenga.
+En el caso de que las listas tengan diferente númerod e elementos, el resultado antes mencionado tendrá el número de elementos de la lista que menos elementos contenga. 
+
+Las operaciones se realizan a la lista A, por ejemplo a los elementos de la lista A se les resta los elementos de la lista B respectivamente. Este mismo concepto aplica para las demás operaciones propuestas en esta solución.
 
 ## Ejecución
 
