@@ -1,7 +1,7 @@
 # MentoriaJulio7ProgramacionFuncionalJava
 
 ## Resumen
-Se plantea una solución al problema planteado en la mentoría. Este problema se trata de una calculadora que tenga como entradas dos listas de números. Las listas pueden tener diferente número de elementos. En la solución se aplican conceptos de programación funcional en Java.
+Se plantea una solución al problema planteado en la mentoría. Este problema se trata de una calculadora que tenga como entradas dos listas de números. Las listas pueden tener diferente número de elementos. En la solución se aplican conceptos de programación funcional en Java. Los elementos de las listas deben ser tipo Double.
 
 ## Solución
 Se genera una clase llamada Calculadora con las siguientes operaciones:
