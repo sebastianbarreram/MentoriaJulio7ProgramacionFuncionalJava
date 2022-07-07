@@ -1,0 +1,57 @@
+
+C
+java:S1121".Extract the assignment out of this expression.(İÂÅ'
+D
+java:S1121".Extract the assignment out of this expression.(†æ
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "suma".(ÓâÌ8×î–Ö0
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "suma".( £¥ôûÿÿÿÿ8Ùî–Ö0
+
+java:S1488%"]Immediately return this expression instead of assigning it to the temporary variable "resta".(ıËÕùÿÿÿÿ8Ùî–Ö0
+
+java:S1488*"]Immediately return this expression instead of assigning it to the temporary variable "resta".(ü€ùŸøÿÿÿÿ8Úî–Ö0
+ˆ
+java:S14881"fImmediately return this expression instead of assigning it to the temporary variable "multiplicacion".(€ø¼Üşÿÿÿÿ8Ûî–Ö0
+ˆ
+java:S14886"fImmediately return this expression instead of assigning it to the temporary variable "multiplicacion".(ÌØ‚Ãüÿÿÿÿ8Ûî–Ö0
+}
+java:S1488="`Immediately return this expression instead of assigning it to the temporary variable "division".(Ë‰ÃĞ8Üî–Ö0
+|
+java:S1488B"`Immediately return this expression instead of assigning it to the temporary variable "division".(é†À!8İî–Ö0
+{
+java:S1488I"^Immediately return this expression instead of assigning it to the temporary variable "modulo".(º‰ÃÍ8Şî–Ö0
+{
+java:S1488N"^Immediately return this expression instead of assigning it to the temporary variable "modulo".(€»êÎ8Şî–Ö0
+m
+java:S3655T"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‡îÃ•8¬ï–Ö0
+m
+java:S3655Y"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¼ÎöÙ8¬ï–Ö0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™à‹ã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö‰÷
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Şé˜Ö0
+o
+java:S6204 "RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8àé˜Ö0
+o
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8áé˜Ö0
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8áé˜Ö0
+o
+java:S62043"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8êé˜Ö0
+o
+java:S62048"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8íé˜Ö0
+o
+java:S6204?"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8„ê˜Ö0
+o
+java:S6204D"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8‰ê˜Ö0
+o
+java:S6204K"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ê˜Ö0
+o
+java:S6204P"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ê˜Ö0
+p
+java:S1602U"SRemove useless curly braces around statement and then remove useless return keyword(àˆäì8“ê˜Ö0
+p
+java:S1602Z"SRemove useless curly braces around statement and then remove useless return keyword(àˆäì8“ê˜Ö0
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(ÙÓ«ıÿÿÿÿ8÷ñ–Ö0
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(´«¤Çúÿÿÿÿ8šê˜Ö0
