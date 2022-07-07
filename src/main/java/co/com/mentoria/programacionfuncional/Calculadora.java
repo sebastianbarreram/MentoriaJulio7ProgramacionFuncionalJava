@@ -21,7 +21,7 @@ public class Calculadora {
         return this.longitudResultado = cantidadElementosA;
     }
     public List<Double> sumar() {
-        if (this.a.stream().count() == longitudResultado) {
+        if (this.a.stream().count() == this.longitudResultado) {
             List<Double> suma = this.a.stream()
                     .map(elementA -> elementA + this.b.get((this.a.indexOf(elementA))))
                     .collect(Collectors.toList());
@@ -33,7 +33,7 @@ public class Calculadora {
         return suma;
     }
     public List<Double> restar() {
-        if (this.a.stream().count() == longitudResultado) {
+        if (this.a.stream().count() == this.longitudResultado) {
             List<Double> resta = this.a.stream()
                     .map(elementA -> elementA - this.b.get((this.a.indexOf(elementA))))
                     .collect(Collectors.toList());
@@ -45,7 +45,7 @@ public class Calculadora {
         return resta;
     }
     public List<Double> multiplicar() {
-        if (this.a.stream().count() == longitudResultado) {
+        if (this.a.stream().count() == this.longitudResultado) {
             List<Double> multiplicacion = this.a.stream()
                     .map(elementA -> elementA * this.b.get((this.a.indexOf(elementA))))
                     .collect(Collectors.toList());
@@ -57,7 +57,7 @@ public class Calculadora {
         return multiplicacion;
     }
     public List<Double> dividir() {
-        if (this.a.stream().count() == longitudResultado) {
+        if (this.a.stream().count() == this.longitudResultado) {
             List<Double> division = this.a.stream()
                     .map(elementA -> elementA / this.b.get((this.a.indexOf(elementA))))
                     .collect(Collectors.toList());
@@ -69,7 +69,7 @@ public class Calculadora {
         return division;
     }
     public List<Double> modulo() {
-        if (this.a.stream().count() == longitudResultado) {
+        if (this.a.stream().count() == this.longitudResultado) {
             List<Double> modulo = this.a.stream()
                     .map(elementA -> elementA % this.b.get((this.a.indexOf(elementA))))
                     .collect(Collectors.toList());
